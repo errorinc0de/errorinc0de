@@ -2,8 +2,8 @@
 
 - #### RCC Institute of Information Technology, Calcutta -- B.Tech CSE '23 🏫
 - #### Competitive Coding Enthusiast 👨‍💻
-- #### Currently focusing in Crio's Winter of Doing Externship ☁️
-- #### Will be starting with Full Stack Development Learning 🌐
+- #### Currently focusing in Google Cloud Facilitator Programme ☁️
+- #### Budding Full Stack Developer 🌐
 - #### Looking forward to new opportunities 🚪
 
 <br />
