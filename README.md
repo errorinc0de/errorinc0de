@@ -2,7 +2,7 @@
 
 - #### RCC Institute of Information Technology, Calcutta -- B.Tech CSE '23 🏫
 - #### Competitive Coding Enthusiast 👨‍💻
-- #### Currently focusing in Google Cloud Facilitator Programme ☁️
+- #### Currently focusing in Hackathons ☁️
 - #### Budding Full Stack Developer 🌐
 - #### Looking forward to new opportunities 🚪
 
