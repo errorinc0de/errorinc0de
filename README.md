@@ -25,9 +25,9 @@
 
 
 ### Reach to me via:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/SoH2k1_/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/soham-sarkar-170212191/)
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/errorinc0de/)
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/errorinc0de/)
 
 <br />
 
-![Soham's github stats](https://github-readme-stats.vercel.app/api?username=soham-sarkar&show_icons=true&hide_border=true)
+![Soham's github stats](https://github-readme-stats.vercel.app/api?username=errorinc0de&show_icons=true&hide_border=true)
