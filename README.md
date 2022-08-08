@@ -1,5 +1,5 @@
 <h1 align="center">Hola! this is Soham Sarkar 👨‍💻</h1>
-<h3 align="center">A Full Stack Developer🌐 and a CS Junior 💻 from India</h3>
+<h3 align="center">A Full Stack Developer🌐 and a CS Senior 💻 from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=errorinc0de&label=Profile%20views&color=0e75b6&style=flat" alt="errorinc0de" /> </p>
 
