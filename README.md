@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/errorinc0de" target="blank"><img src="https://img.shields.io/twitter/follow/errorinc0de?logo=twitter&style=for-the-badge" alt="errorinc0de" /></a> </p>
 
-- 🔭 I’m currently working as a Software Engineer Intern (FE) in **Spinny**
+- 🔭 I’m currently working as a Software Developer (SDE-1) in **Spinny**
 
 - 🌱 I’m currently student from **RCC Institute of Information Technology**
 
