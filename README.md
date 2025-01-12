@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=errorinc0de&label=Profile%20views&color=0e75b6&style=flat" alt="errorinc0de" /> </p>
 
-- 🔭 I’m currently working as a Software Engineer 2 (SWE-2) in **[Spinny](https://www.linkedin.com/company/spinny)**
+- 🔭 I’m currently working as a Software Engineer 2 (SWE-2) at **[Spinny](https://www.linkedin.com/company/spinny)**
 
 - 📫 How to reach me **reachtoerrorinc0de@gmail.com**
 
