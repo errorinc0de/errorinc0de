@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=errorinc0de&label=Profile%20views&color=0e75b6&style=flat" alt="errorinc0de" /> </p>
 
-- 🔭 I’m currently working as a Software Engineer 2 (SWE-2) at **[Spinny](https://www.linkedin.com/company/spinny)**
+- 🔭 I’m currently working as a Software Engineer (SWE) at **[Atlassian](https://www.linkedin.com/company/atlassian)**
+
+- 💻 Formerly, I worked at **[Spinny](https://www.linkedin.com/company/spinny)**
 
 - 📫 How to reach me **reachtoerrorinc0de@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Zc2x3BsDToTy4phfFJrkQ9oXSLl-XgvP/view](https://drive.google.com/file/d/1Zc2x3BsDToTy4phfFJrkQ9oXSLl-XgvP/view)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1Zc2x3BsDToTy4phfFJrkQ9oXSLl-XgvP/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
