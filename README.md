@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=errorinc0de&label=Profile%20views&color=0e75b6&style=flat" alt="errorinc0de" /> </p>
 
-- 🔭 I’m currently working as a Software Engineer (SWE) at **[Atlassian](https://www.linkedin.com/company/atlassian)**
+- 🔭 I’m currently working as a Software Engineer II (SWE-2) at **[Atlassian](https://www.linkedin.com/company/atlassian)**
 
 - 💻 Formerly, I worked at **[Spinny](https://www.linkedin.com/company/spinny)**
 
